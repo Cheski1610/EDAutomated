@@ -1,6 +1,6 @@
 # EDAutomated
 
-![Ilustración #1](https://www.google.com/url?sa=i&url=https://medium.com/@juanmartin_franco/estad%25C3%25ADstica-an%25C3%25A1lisis-exploratorio-de-datos-eda-introducci%25C3%25B3n-ac06e98eb918&psig=AOvVaw2sO7RH2Gy8Zt3fpb2abemy&ust=1701114426760000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCg55q34oIDFQAAAAAdAAAAABAK)
+![Ilustración #1](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*auci8cPOlVdtkpdN.jpg)
 
 En este repositorio se encuentra disponible el código y los archivos necesarios para la creación de una app web donde se puede realizar la generación automática de un Análisis Exploratorio de los Datos.
 Para el proceso de dockerización y su despliegue en la nube de Azure puede guiarse con el siguiente video:
